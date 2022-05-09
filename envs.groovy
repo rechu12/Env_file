@@ -1,1 +1,2 @@
 env.SET_URL="test0303a.ninjasleep.com"
+env.BRIGHTREE_SYNC_PROD="BRIGHTREE_SYNC_PROD"
