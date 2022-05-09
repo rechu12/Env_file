@@ -1,1 +1,1 @@
-env.SET_URL="google.com"
+env.SET_URL="test0303a.ninjasleep.com"
