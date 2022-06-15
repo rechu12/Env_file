@@ -1,4 +1,4 @@
-env.SET_URL="stage-0601.ninjasleep.com"
+env.SET_URL="betternight.com"
 env.BRIGHTREE_SYNC_PROD="BRIGHTREE_SYNC_PROD"
 env.BUILD_TRIGGER_BY = "${currentBuild.getBuildCauses()[0].userId}"
 env.TRACKER="TRACKER"
